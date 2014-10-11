@@ -1,0 +1,4 @@
+{"name": "test1","price" : 1},
+{"name": "test2","price" : 2},
+{"name": "test3","price" : 3},
+{"name": "dummy", "price": 0}
